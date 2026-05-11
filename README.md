@@ -21,9 +21,8 @@ One Pager.pdf - Summary of process, questions, and analysis
 
 # Tools Used
 
-Excel
-Python
-Pandas
-Matplotlib
-Jupyter Notebook
-
+- Excel
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
