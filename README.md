@@ -10,14 +10,14 @@ The purpose of this project is to evaluate vehicle reliability and safety by ide
 
 # Repository Contents
 
-Recalls_Data.csv - Original dataset from data.gov
-clean.csv – Cleaned version of the dataset used for analysis
-Milestone #2.ipynb - Original dataset analysis
-Milestone #3.ipynb - Data cleaning and creation of clean.csv
-Milestone #4.ipynb - Analysis of cleaned dataset including visualizations
-README.md – Project overview, purpose, and file descriptions
-Final Presentation.pdf - Presentation slides
-One Pager.pdf - Summary of process, questions, and analysis
+- Recalls_Data.csv - Original dataset from data.gov
+- clean.csv – Cleaned version of the dataset used for analysis
+- Milestone #2.ipynb - Original dataset analysis
+- Milestone #3.ipynb - Data cleaning and creation of clean.csv
+- Milestone #4.ipynb - Analysis of cleaned dataset including visualizations
+- README.md – Project overview, purpose, and file descriptions
+- Final Presentation.pdf - Presentation slides
+- One Pager.pdf - Summary of process, questions, and analysis
 
 # Tools Used
 
